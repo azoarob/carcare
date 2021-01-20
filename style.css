@@ -12,7 +12,9 @@ html{
     position: relative;
   }
 */  
-
+a:visited{
+    text-decoration: none;
+}
 body{
 
     /*text-align: center;*/
